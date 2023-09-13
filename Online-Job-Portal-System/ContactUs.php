@@ -83,7 +83,7 @@ include "menu.php"
                     <td width="94%"><strong>Online-JOB.com<br/>
                     Taranagar,<br/>
                     Dhangadhi, Nepal<br/>
-                    Pincode:11111</strong></td>
+                    Postalcode:111111</strong></td>
                   </tr>
                   <tr>
                     <td><img src="design/ico_archive2.gif" alt="" width="9" height="11" /></td>
