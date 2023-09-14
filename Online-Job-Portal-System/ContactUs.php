@@ -102,7 +102,7 @@ include "menu.php"
                   </tr>
 			
                 </table>
-				<p><img src="design/banner6.jpg" alt="" width="500" height="300" /></p>
+				<p><img src="design/banner6.png" alt="" width="500" height="300" /></p>
               
               <p>&nbsp;</p>
 
