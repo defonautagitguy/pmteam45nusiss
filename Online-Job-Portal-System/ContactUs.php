@@ -81,7 +81,7 @@ include "menu.php"
                   <tr>
                     <td width="6%"><img src="design/ico_archive2.gif" alt="" width="9" height="11" /></td>
                     <td width="94%"><strong>Online-JOB.com<br/>
-                    Taranagar,<br/>
+                    Ang Mo Kio Street 99,<br/>
                     Singapore<br/>
                     Postalcode:987654</strong></td>
                   </tr>
