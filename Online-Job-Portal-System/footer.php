@@ -5,5 +5,5 @@
         
         <p class="style1" id="createdby">created by Our Team 45<!-- DON´T REMOVE, PLEASE! -->
         </p>
-        <p>Online-JOB.np.com</p>
+        <p>TalentConnect.com.sg</p>
 </div> <!-- /footer -->
