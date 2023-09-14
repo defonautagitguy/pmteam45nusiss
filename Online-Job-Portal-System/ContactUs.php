@@ -83,22 +83,22 @@ include "menu.php"
                     <td width="94%"><strong>TalentConnect.com<br/>
                     Ang Mo Kio Street 99,<br/>
                     Singapore<br/>
-                    Postalcode:987654</strong></td>
+                    Postal Code:987654</strong></td>
                   </tr>
                   <tr>
                     <td><img src="design/ico_archive2.gif" alt="" width="9" height="11" /></td>
-					<td><strong>Office No: 61234321<b>
-					Mobile: +6598765432
+					<td><strong>Office No: 6123 4321<b>
+					Mobile: +65 9876 5432
 					</strong></td>
 					
                   </tr>
                   <tr>
                     <td><img src="design/ico_archive2.gif" alt="" width="9" height="11" /></td>
-                    <td><strong>Email: TalentConnect.com.sg</strong></td>
+                    <td><strong>Email: jobs@TalentConnect.com.sg</strong></td>
                   </tr>
                   <tr>
                     <td><img src="design/ico_archive2.gif" alt="" width="9" height="11" /></td>
-                    <td><strong>Website:TalentConnect.com/singapore</strong></td>
+                    <td><strong>Website:TalentConnect.com.sg</strong></td>
                   </tr>
 			
                 </table>
