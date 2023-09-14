@@ -80,29 +80,29 @@ include "menu.php"
                 <table width="100%" border="0" cellspacing="0" cellpadding="0">
                   <tr>
                     <td width="6%"><img src="design/ico_archive2.gif" alt="" width="9" height="11" /></td>
-                    <td width="94%"><strong>Online-JOB.com<br/>
+                    <td width="94%"><strong>TalentConnect.com<br/>
                     Ang Mo Kio Street 99,<br/>
                     Singapore<br/>
                     Postalcode:987654</strong></td>
                   </tr>
                   <tr>
                     <td><img src="design/ico_archive2.gif" alt="" width="9" height="11" /></td>
-					<td><strong>Office No: 091-520612<b>
-					Mobile: +9779823480941
+					<td><strong>Office No: 61234321<b>
+					Mobile: +6598765432
 					</strong></td>
 					
                   </tr>
                   <tr>
                     <td><img src="design/ico_archive2.gif" alt="" width="9" height="11" /></td>
-                    <td><strong>Email: Online-JOB.np.com</strong></td>
+                    <td><strong>Email: TalentConnect.com.sg</strong></td>
                   </tr>
                   <tr>
                     <td><img src="design/ico_archive2.gif" alt="" width="9" height="11" /></td>
-                    <td><strong>Website:Online-JOB.com/nepal</strong></td>
+                    <td><strong>Website:TalentConnect.com/singapore</strong></td>
                   </tr>
 			
                 </table>
-				<p><img src="design/banner5.jpg" alt="" width="500" height="300" /></p>
+				<p><img src="design/banner6.jpg" alt="" width="500" height="300" /></p>
               
               <p>&nbsp;</p>
 
